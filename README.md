@@ -44,4 +44,5 @@ $config['Google'] = array(
 # LICENSE
 
 Code written by me is MIT Licensed
+
 Code included in Vendor has its own license, not sure which but I'm sure its open source
