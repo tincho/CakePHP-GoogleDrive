@@ -20,6 +20,7 @@ Caution: Look at the code with one eye! ;)
 - Vendor/google-api-php-client holds Google API PHP client provided by Google, with some minor tweaks
 - Controller/Component/GoogleApiComponent.php contains the abstraction component...
 - Controller/sample-BibliotecaController.php contians the controller which uses the Component, to use as example
+- Console/Command/DriveShell.php contains a Cake CLI utility used to batch upload lots of files
 
 # Config
 
@@ -39,3 +40,8 @@ $config['Google'] = array(
 	)
 );
 ```
+
+# LICENSE
+
+Code written by me is MIT Licensed
+Code included in Vendor has its own license, not sure which but I'm sure its open source
